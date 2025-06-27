@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love experimenting with **customizable dashboards** and **AI influencers**  
 
 ### 🤝 Collaboration & Projects  
-- 💞️ Open to collaborating on **AI/ML, Web3, DBMS, and Hackathon Projects**  
+-  Open to collaborating on **AI/ML, Web3, DBMS, and Hackathon Projects**  
 - 📫 Reach me via **[LinkedIn](https://www.linkedin.com/in/nbhosale8222)** or **GitHub Discussions**  
 
 Let's build something amazing! 🚀  
