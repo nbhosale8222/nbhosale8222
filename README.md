@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Nikhil Bhosale (@nbhosale8222)  
 ### 🚀 About Me  
-- 🎓 2nd-year Computer Science & IT student at SRM University, Pune  
+- 🎓 3rd-year Computer Science & IT student at SRM University, CHENNAI  
 - 🌱 Currently learning **Machine Learning, Blockchain, and UI/UX Design**
 - 👀 Interested in **AI/ML, Operating Systems, Cybersecurity, and Product Development**  
 - 💼 Operations Team Member at **Founders Club, SRM** 
